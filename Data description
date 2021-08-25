@@ -9,10 +9,11 @@ The data was used in combination with the genealogical data contains in the repo
 
 With the data contains in this dataset, I also generated spatial networks with GEPHI.
 
+The two datasets are in xlsx or csv comma delimited.
 
 DATASETS
 
-1. acv_ds_69_6_1797-1799_notarial_deeds.xlsx
+1. acv_ds_69_6_1797-1799_notarial_deeds
 Thia dataset contains all the notarial deeds made between January 1797 and June 1799 by the notary Ferdinand Louis de Montet dit Taverney.
 It contains several information: the type of the act, the page in the register, date, place where the act was contracted, the first actor, 
 the ID of the actor referring to the ID in the genealogical database (see following file).
@@ -23,7 +24,7 @@ The warrants are as well in the file, with their ID.
 The next information is the containt of the deed. 
 Finally, remarks or observations made by myself. 
 
-2. ind_presents_ds_69.xlsx
+2. ind_presents_ds_69
 This file contains the individuals active in the notarial deeds. It contains the following data: ID, Name, Gender (F for Female, H for Male, I for Institution) and the filiation.
 Then a part of the data concerns the dwelling place of the individuals with the dwelling place found on the basis of the 1798 census and the cadastral maps (ref_plan and ref_recensement)
 and if this information is certain or not. Then the latitude and longitude of the house. 
