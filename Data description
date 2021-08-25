@@ -5,3 +5,23 @@ The data contains the all the notarial deeds made between january 1797 and june 
 The excel file contains the deeds, the people involved, their house or residence. 
 
 The data was used in combination with de genealogical data contains in the repository Corsier1680-1840. 
+
+DATASETS
+
+1. acv_ds_69_6_1797-1799_notarial_deeds.xlsx
+The dataset acv_ds_69_6_1797-1799_notarial_deeds.xlsx contains all the notarial deeds made between January 1797 and June 1799 by the notary Ferdinand Louis de Montet dit Taverney.
+It contains several information: the type of the act, the page in the register, date, place where the act was contracted, the first actor, the ID of the actor referring to the ID in the genealogical database.
+Then the second, third etc. actors with their ID as well and the kinship link with the other actors. 
+Then the living place of the actors as mentioned in the deed, the price of the transaction. The witnesses of the acts and their ID and their place of living. 
+The warrants are as well in the file, with their ID.
+The next information is the containt of the deed. 
+Finally, remarks or observations made by myself. 
+
+2. ind_presents_ds_69
+This file contains the individuals active in the notarial deeds. It contains the following data: ID, Name, Gender (F for Female, H for Male, I for Institution) and the filiation.
+Then a part of the data concerns the dwelling place of the individuals with the dwelling place found on the basis of the 1798 census and the cadastral maps (ref_plan and ref_recensement)
+and if this information is certain or not. Then the latitude and longitude of the house. 
+More classical information about the actors comes next: birth date, christening date, death date, burying date. 
+Then if the partner is a member of the kin, if the actor was part of a political movement, the place of origin (bourgeoisie), the title, the surname, the occupation and if the person helds public
+offices and finally if the person was member of the elite. 
+This data was used to analyze the deeds. 
