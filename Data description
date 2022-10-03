@@ -32,3 +32,8 @@ More classical information about the actors comes next: birth date, christening 
 Then if the marriage partner is a member of the kin, if the actor was part of a political movement, the place of origin (bourgeoisie), the title, the surname, the occupation and if the person helds public
 offices and finally if the person was member of the elite. 
 This data was used to analyze the deeds. 
+
+3. acquis_simulation_lien_parente
+This is the result of a random distribution of the notarial deeds and only the sells of properties. This random distribution is based on a python code made Rémi Petitpierre at the EPFL. 
+Act_ID is the identification number of the individual. The columns lien_de_parente test if a kinship link exists between the seller and the buyer. The pattern explains the roles in the deed (v for vendor and a for buyer). 
+The column lien_parente_entre_vendeurs contains the kinship links between sellers and the column lien_parente_entre_ach the kinship links between buyers. 
